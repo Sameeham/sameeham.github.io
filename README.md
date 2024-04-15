@@ -1,3 +1,6 @@
 # sameeham.github.io
 
-Hello my name is Sameeha, I am a PhD student at Leeat Keren Lab.
+"Hello there! 👋 I'm Sameeha, a passionate PhD student at the Leeat Keren lab, Weizmann Institute of Science 🎓💻 Exploring the intersections of science and technology, one line of code at a time. I'm excited to share my journey and discoveries here on GitHub! #ScienceInCode"
+
+*
+
