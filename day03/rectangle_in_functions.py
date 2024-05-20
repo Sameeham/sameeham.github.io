@@ -1,11 +1,20 @@
 def display(area):
     print(f"The area is {area}")
 
-def main():
-    length = input ("Length:")
-    width = input ("width:") 
+def get_input():
+    received_length = input ("Length:")
+    recived_width = input ("width:") 
+    return (received_length, recived_width)
 
-    area = int(length) * int(width) 
-    print(f"The area is {area}")
+def compute_area(length,width):
+    area=int(length)* int(width)
+    return (area)
+def main():
+    (length, width)= get_input()
+
+    area= compute_area(length,width)
+    display (area)
+
+    
     
 main()
