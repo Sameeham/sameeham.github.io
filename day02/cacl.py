@@ -1,0 +1,6 @@
+# length = input ("Length:")
+# width = input ("width:")
+first = input ("first number:")
+second =input ("second number:")
+sum = float(first) + float(second) 
+print (f"the sum is {sum}")
